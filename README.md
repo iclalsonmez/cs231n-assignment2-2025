@@ -74,7 +74,7 @@ The code is based on the official CS231n 2025 assignments and uses the standard 
 ### Recommended environment
 
 - Python 3.8+
-- Jupyter Notebook or JupyterLab
+- Google Colab
 
 ### Python packages
 
